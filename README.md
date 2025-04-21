@@ -1,2 +1,2 @@
 # Asteroids
-A guided python project to better understand Python :)
+A small game powered by pygame to better understand Python and OOB :)
